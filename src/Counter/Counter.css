@@ -1,0 +1,96 @@
+body,html{
+    margin: 0px;
+    padding: 0px;
+  }
+  header{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(159, 118, 209);
+    height: 80px;
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(63, 63, 72);
+   
+  }
+  .Container-Count{
+    background-color:rgb(61, 59, 69);
+    height: 83vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+      
+  }
+  .Sub-Container{
+    border-bottom: 1px solid  rgb(113, 93, 138);
+    border-radius: 5px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    width: 800px;
+    background-color: rgb(65, 66, 73);
+    
+  }
+  
+  .head{
+    font-size: 100px;
+    /* background-color: aqua; */
+  }
+  .buttons-group{
+  
+      display: flex;
+      justify-content: space-around;
+      /* width: 700px; */
+      background-color: rgb(65, 66, 73);
+      width: 820px;
+  
+  
+  }
+  .buttons{
+    width: 100%;
+    display: flex;
+    background-color: transparent;
+  color: aliceblue;
+  padding: 5px;
+  height: 200px;
+  
+  
+  }
+  
+  
+  .button1{
+    width: 50%;
+    height: 150px;
+    background-color: transparent;
+    font-size: 50px;
+  
+  }
+  .button2{
+    width: 50%;
+     background-color: transparent;
+  }
+  .button3{
+    width: 50%;
+    height: 150px;
+    background-color: transparent;
+    font-size: 50px;
+    
+  
+     
+  }
+  footer{
+    background-color: black;
+    display: flex;
+    justify-content: end;
+    padding: 5px;
+  }
+  footer a{
+    padding-right: 50px;
+    text-decoration: none;
+    color: blue;
+  }
