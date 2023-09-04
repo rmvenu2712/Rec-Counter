@@ -19,9 +19,9 @@ const Arr=["venu","Hello",22];
       {/* <Arr1></Arr1>
       <Arr2/> */}
      {/* <Counter></Counter>  */}
-    {/* <Child name={btn}/> */}
-    {/* <Table1></Table1> */}
-    <Todo />
+     {/* <Child name={btn}/> */}
+     {/* <Table1></Table1> */}
+     <Todo />
       {/* <Rectask></Rectask> */}
      
       </>
